@@ -6,17 +6,33 @@ Este repositório documenta toda a minha evolução durante a jornada para me to
 
 ---
 
-## 👨‍💻 Sobre mim
+🚀 Roadmap - Desenvolvedor Backend Java
 
-Meu nome é **Emerson Freire**.
+📚 Objetivo do Repositório
 
-🎓 Estudante de Ciência da Computação.
+Este repositório documenta toda a minha evolução durante a jornada para me tornar Desenvolvedor Backend Java.
 
-🏭 Atualmente atuo como Aprendiz em PCP na BAT.
+Aqui registro:
 
-☕ Atualmente estudando Java.
+✔ conteúdos estudados
 
-🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Backend Java.
+✔ objetivos
+
+✔ progresso
+
+✔ próximos passos
+
+---
+
+## 📌 Status Atual
+
+🟢 Atualmente estudando:
+
+☕ Java Básico
+
+Próximo tópico:
+
+➡️ Variáveis
 
 ---
 
@@ -26,8 +42,12 @@ Meu nome é **Emerson Freire**.
 
 - [x] Instalar Git
 - [x] Criar conta no GitHub
+- [x] Criar estrutura do GitHub
+- [x] Criar Roadmap
 - [x] Instalar JDK
 - [x] Instalar IntelliJ IDEA
+- [ ] Configurar Git local
+- [ ] Primeiro projeto Java
 
 ### Java Básico
 
@@ -67,6 +87,16 @@ Meu nome é **Emerson Freire**.
 
 ---
 
+## 📊 Progresso Geral
+
+**Evolução da jornada:** **5%**
+
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**Status atual:** Configuração do ambiente concluída.
+
+---
+
 ## 📂 Repositórios
 
 | Repositório | Objetivo |
@@ -86,5 +116,18 @@ Meu nome é **Emerson Freire**.
 | Julho/2026 | Organização do GitHub e início da jornada Java |
 
 ---
+
+## 🎯 Objetivos de 2026
+
+- [ ] Dominar Java
+- [ ] Aprender Spring Boot
+- [ ] Criar APIs REST
+- [ ] Aprender SQL
+- [ ] Publicar projetos no GitHub
+- [ ] Conquistar minha primeira vaga como Desenvolvedor Backend
+
+---
+
+> "Grandes resultados são construídos com pequenos passos diários."
 
 > "Grandes resultados são construídos com pequenos passos diários."
