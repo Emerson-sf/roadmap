@@ -27,6 +27,12 @@ Aqui registro:
 
 ➡️ Variáveis
 
+## 📊 Progresso Geral
+
+**Progresso da jornada:** 5%
+
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
 ---
 
 ## 📚 Roadmap de Estudos
@@ -80,18 +86,6 @@ Aqui registro:
 
 ---
 
-## 📊 Progresso Geral
-
-**Progresso da jornada:** 5%
-
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-🎯 Etapa atual: Configuração do ambiente
-
-🚀 Próxima etapa: Variáveis
-
----
-
 ## 📂 Repositórios
 
 | Repositório | Objetivo |
@@ -123,8 +117,6 @@ Aqui registro:
 
 ---
 
----
-
 ## 📝 Observações
 
 Este roadmap será atualizado constantemente conforme avanço nos estudos e desenvolvo novos projetos.
@@ -132,7 +124,5 @@ Este roadmap será atualizado constantemente conforme avanço nos estudos e dese
 Meu objetivo é registrar toda a minha evolução de forma organizada e transparente.
 
 ---
-
-> "Grandes resultados são construídos com pequenos passos diários."
 
 > "Grandes resultados são construídos com pequenos passos diários."
