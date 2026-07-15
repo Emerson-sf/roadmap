@@ -6,31 +6,24 @@ Este repositório documenta toda a minha evolução durante a jornada para me to
 
 ---
 
-🚀 Roadmap - Desenvolvedor Backend Java
-
-📚 Objetivo do Repositório
-
-Este repositório documenta toda a minha evolução durante a jornada para me tornar Desenvolvedor Backend Java.
+## 📚 Objetivo do Repositório
 
 Aqui registro:
 
-✔ conteúdos estudados
-
-✔ objetivos
-
-✔ progresso
-
-✔ próximos passos
+- ✔ Conteúdos estudados
+- ✔ Objetivos
+- ✔ Progresso
+- ✔ Próximos passos
 
 ---
 
 ## 📌 Status Atual
 
-🟢 Atualmente estudando:
+🟢 **Atualmente estudando**
 
 ☕ Java Básico
 
-Próximo tópico:
+🎯 **Próximo tópico**
 
 ➡️ Variáveis
 
@@ -89,11 +82,13 @@ Próximo tópico:
 
 ## 📊 Progresso Geral
 
-**Evolução da jornada:** **5%**
+**Progresso da jornada:** 5%
 
 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Status atual:** Configuração do ambiente concluída.
+🎯 Etapa atual: Configuração do ambiente
+
+🚀 Próxima etapa: Variáveis
 
 ---
 
@@ -111,9 +106,9 @@ Próximo tópico:
 
 ## 📈 Evolução
 
-| Data | Progresso |
-|------|-----------|
-| Julho/2026 | Organização do GitHub e início da jornada Java |
+| Data | Evolução |
+|------|----------|
+| 14/07/2026 | Configuração do ambiente, GitHub organizado e criação do Roadmap |
 
 ---
 
@@ -125,6 +120,16 @@ Próximo tópico:
 - [ ] Aprender SQL
 - [ ] Publicar projetos no GitHub
 - [ ] Conquistar minha primeira vaga como Desenvolvedor Backend
+
+---
+
+---
+
+## 📝 Observações
+
+Este roadmap será atualizado constantemente conforme avanço nos estudos e desenvolvo novos projetos.
+
+Meu objetivo é registrar toda a minha evolução de forma organizada e transparente.
 
 ---
 
