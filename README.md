@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Tipos primitivos
+➡️ Operadores
 
 ## 📊 Progresso Geral
 
@@ -51,7 +51,7 @@ Aqui registro:
 ### Java Básico
 
 - [x] Variáveis
-- [ ] Tipos Primitivos
+- [x] Tipos Primitivos
 - [ ] Operadores
 - [ ] Entrada de Dados
 - [ ] Estruturas Condicionais
