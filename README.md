@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Operadores
+➡️ Entrada de Dados
 
 ## 📊 Progresso Geral
 
@@ -52,7 +52,7 @@ Aqui registro:
 
 - [x] Variáveis
 - [x] Tipos Primitivos
-- [ ] Operadores
+- [x] Operadores
 - [ ] Entrada de Dados
 - [ ] Estruturas Condicionais
 - [ ] Estruturas de Repetição
