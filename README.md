@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Variáveis
+➡️ Tipos primitivos
 
 ## 📊 Progresso Geral
 
@@ -50,7 +50,7 @@ Aqui registro:
 
 ### Java Básico
 
-- [ ] Variáveis
+- [x] Variáveis
 - [ ] Tipos Primitivos
 - [ ] Operadores
 - [ ] Entrada de Dados
