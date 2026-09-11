@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Entrada de Dados
+➡️ Estruturas de Repetição
 
 ## 📊 Progresso Geral
 
@@ -45,7 +45,7 @@ Aqui registro:
 - [x] Criar Roadmap
 - [x] Instalar JDK
 - [x] Instalar IntelliJ IDEA
-- [ ] Configurar Git local
+- [x] Configurar Git local
 - [ ] Primeiro projeto Java
 
 ### Java Básico
@@ -53,8 +53,8 @@ Aqui registro:
 - [x] Variáveis
 - [x] Tipos Primitivos
 - [x] Operadores
-- [ ] Entrada de Dados
-- [ ] Estruturas Condicionais
+- [x] Entrada de Dados
+- [x] Estruturas Condicionais
 - [ ] Estruturas de Repetição
 - [ ] Arrays
 - [ ] Métodos
@@ -103,6 +103,9 @@ Aqui registro:
 | Data | Evolução |
 |------|----------|
 | 14/07/2026 | Configuração do ambiente, GitHub organizado e criação do Roadmap |
+| 15/08/2026 | Conclusão de Variáveis e Tipos Primitivos em Java |
+| 26/08/2026 | Conclusão de Operadores e organização dos packages do projeto |
+| 11/09/2026 | Conclusão de Entrada de Dados e Estruturas Condicionais |
 
 ---
 
