@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Estruturas de Repetição
+➡️ Arrays
 
 ## 📊 Progresso Geral
 
@@ -55,7 +55,7 @@ Aqui registro:
 - [x] Operadores
 - [x] Entrada de Dados
 - [x] Estruturas Condicionais
-- [ ] Estruturas de Repetição
+- [x] Estruturas de Repetição
 - [ ] Arrays
 - [ ] Métodos
 
@@ -106,6 +106,7 @@ Aqui registro:
 | 15/08/2026 | Conclusão de Variáveis e Tipos Primitivos em Java |
 | 26/08/2026 | Conclusão de Operadores e organização dos packages do projeto |
 | 11/09/2026 | Conclusão de Entrada de Dados e Estruturas Condicionais |
+| 13/09/2026 | Conclusão de Estruturas de Repetição |
 
 ---
 
