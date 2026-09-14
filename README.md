@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Arrays
+➡️ Métodos
 
 ## 📊 Progresso Geral
 
@@ -56,7 +56,7 @@ Aqui registro:
 - [x] Entrada de Dados
 - [x] Estruturas Condicionais
 - [x] Estruturas de Repetição
-- [ ] Arrays
+- [x] Arrays
 - [ ] Métodos
 
 ### Programação Orientada a Objetos
@@ -107,6 +107,7 @@ Aqui registro:
 | 26/08/2026 | Conclusão de Operadores e organização dos packages do projeto |
 | 11/09/2026 | Conclusão de Entrada de Dados e Estruturas Condicionais |
 | 13/09/2026 | Conclusão de Estruturas de Repetição |
+| 14/09/2026 | Conclusão de Estruturas de Repetição e Arrays |
 
 ---
 
