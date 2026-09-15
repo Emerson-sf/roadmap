@@ -21,17 +21,17 @@ Aqui registro:
 
 🟢 **Atualmente estudando**
 
-☕ Java Básico
+☕ Programação Orientada a Objetos
 
 🎯 **Próximo tópico**
 
-➡️ Métodos
+➡️ Classes e Objetos
 
 ## 📊 Progresso Geral
 
-**Progresso da jornada:** 5%
+**Progresso da jornada:** 15%
 
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
@@ -46,7 +46,7 @@ Aqui registro:
 - [x] Instalar JDK
 - [x] Instalar IntelliJ IDEA
 - [x] Configurar Git local
-- [ ] Primeiro projeto Java
+- [x] Primeiro projeto Java
 
 ### Java Básico
 
@@ -57,7 +57,7 @@ Aqui registro:
 - [x] Estruturas Condicionais
 - [x] Estruturas de Repetição
 - [x] Arrays
-- [ ] Métodos
+- [x] Métodos
 
 ### Programação Orientada a Objetos
 
@@ -108,6 +108,7 @@ Aqui registro:
 | 11/09/2026 | Conclusão de Entrada de Dados e Estruturas Condicionais |
 | 13/09/2026 | Conclusão de Estruturas de Repetição |
 | 14/09/2026 | Conclusão de Estruturas de Repetição e Arrays |
+| 15/09/2026 | Conclusão de Métodos em Java|
 
 ---
 
