@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Encapsulamento
+➡️ Herança
 
 ## 📊 Progresso Geral
 
@@ -63,7 +63,7 @@ Aqui registro:
 
 - [x] Classes
 - [x] Objetos
-- [ ] Encapsulamento
+- [x] Encapsulamento
 - [ ] Herança
 - [ ] Polimorfismo
 - [ ] Abstração
@@ -110,6 +110,7 @@ Aqui registro:
 | 14/09/2026 | Conclusão de Estruturas de Repetição e Arrays |
 | 15/09/2026 | Conclusão de Métodos em Java|
 | 27/09/2026 | Conclusão de Classes e Objetos em Programação Orientada a Objetos |
+| 05/10/2026 | Conclusão de Encapsulamento em Programação Orientada a Objetos |
 
 ---
 
