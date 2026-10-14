@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Polimorfismo
+➡️ Abstração
 
 ## 📊 Progresso Geral
 
@@ -65,7 +65,7 @@ Aqui registro:
 - [x] Objetos
 - [x] Encapsulamento
 - [x] Herança
-- [ ] Polimorfismo
+- [x] Polimorfismo
 - [ ] Abstração
 
 ### Backend
@@ -112,6 +112,8 @@ Aqui registro:
 | 27/09/2026 | Conclusão de Classes e Objetos em Programação Orientada a Objetos |
 | 05/10/2026 | Conclusão de Encapsulamento em Programação Orientada a Objetos |
 | 13/10/2026 | Conclusão de Heranças em Programação Orientada a Objetos |
+| 14/10/2026 | Conclusão de Polimorfismo em Programação Orientada a Objetos |
+
 
 ---
 
