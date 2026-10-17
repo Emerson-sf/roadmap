@@ -115,6 +115,7 @@ Aqui registro:
 | 13/10/2026 | Conclusão de Heranças em Programação Orientada a Objetos |
 | 14/10/2026 | Conclusão de Polimorfismo em Programação Orientada a Objetos |
 | 16/10/2026 | Conclusão de Abstração e Interfaces em Programação Orientada a Objetos |
+| 17/10/2026 | Conclusão de Collections em Java |
 
 
 ---
