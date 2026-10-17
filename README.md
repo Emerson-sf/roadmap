@@ -25,13 +25,13 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Abstração
+➡️ Coleções, exceptions e generics
 
 ## 📊 Progresso Geral
 
-**Progresso da jornada:** 15%
+**Progresso da jornada:** 35%
 
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
 
 ---
 
@@ -66,7 +66,8 @@ Aqui registro:
 - [x] Encapsulamento
 - [x] Herança
 - [x] Polimorfismo
-- [ ] Abstração
+- [x] Abstração
+- [ ] Coleções, exceptions e generics
 
 ### Backend
 
@@ -113,6 +114,7 @@ Aqui registro:
 | 05/10/2026 | Conclusão de Encapsulamento em Programação Orientada a Objetos |
 | 13/10/2026 | Conclusão de Heranças em Programação Orientada a Objetos |
 | 14/10/2026 | Conclusão de Polimorfismo em Programação Orientada a Objetos |
+| 16/10/2026 | Conclusão de Abstração e Interfaces em Programação Orientada a Objetos |
 
 
 ---
