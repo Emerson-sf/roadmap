@@ -25,7 +25,7 @@ Aqui registro:
 
 🎯 **Próximo tópico**
 
-➡️ Coleções, exceptions e generics
+➡️ SQL
 
 ## 📊 Progresso Geral
 
@@ -67,7 +67,7 @@ Aqui registro:
 - [x] Herança
 - [x] Polimorfismo
 - [x] Abstração
-- [ ] Coleções, exceptions e generics
+- [x] Coleções, exceptions e generics
 
 ### Backend
 
@@ -117,6 +117,7 @@ Aqui registro:
 | 16/10/2026 | Conclusão de Abstração e Interfaces em Programação Orientada a Objetos |
 | 17/10/2026 | Conclusão de Collections em Java |
 | 19/10/2026 | Conclusão de Exceptions em Java |
+| 19/10/2026 | Conclusão de Generics em Java |
 
 
 ---
